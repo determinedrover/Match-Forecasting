@@ -1,0 +1,19 @@
+feat_id,feat_name,model_feat_imp_train,feat_rank_train,feat_description
+1,avg_Sixes,0.24768537804379773,1,Ratio of average number of 6s conceded by players in team1 to team2 in last 15 games
+2,team_count_6runs_last15,0.12342186481385019,2,Ratio of total number of 6s by players in team1 to team2 in last 15 games
+3,avg_balls_faced,0.10151132386943977,3,Ratio of total number of balls faced by players in team1 to team2 in last 15 games
+4,avg_stkrate,0.0892767678361623,4,Ratio of average team strike rate of all players in team1 to team2 in last 15 games
+5,avg_wicket_count,0.07622826030211509,5,Ratio of total wicket counts of team1 to team2 in last 15 games
+6,avg_dots,0.060962644093557665,6,Ratio of average dot balls of players in team1 to team2 in last 15 games
+7,avg_run out,0.06066679148354454,7,Ratio of total number of players that were run out in team1 to team2 in last 15 games
+8,avg_economy,0.031678509850440094,8,Ratio of average economy rate of players in team1 to team2 in last 15 games
+9,avg_caught,0.028995466675061123,9,Ratio of total number of players that were caught in team1 to team2 in last 15 games
+10,team_count_50runs_last15,0.02850169797181267,10,Ratio of number of 50s by players in team1 to number of 50s by players in team2 in last 15 games
+11,runs_consistency,0.027810524442142236,11,Ratio of standard deviation of runs scored by players in team1 to team2 in last 15 games
+12,team_winp_last5,0.02743850448928741,12,Ratio of team1's win % to team2's win % in last 5 games
+13,avg_maiden,0.025714304277581635,13,Ratio of average maiden overs of players in team1 to team2 in last 15 games
+14,team_count_4runs_last15,0.02453309015025326,14,Ratio of total number of 4s by players in team1 to team2 in last 15 games
+15,avg_noballs,0.024480677862352723,15,Ratio of average number of no-balls bowled by players in team1 to team2 in last 15 games
+16,avg_lbw,0.021094193838601543,16,Ratio of total number of players that were lbw in team1 to team2 in last 15 games
+17,toss_decision_01,0.0,17,"Toss decision - categorical - 1 if winner bats, 0 otherwise"
+18,toss_winner_01,0.0,18,"Toss winner to numerical - 1 if team2 wins, else 0"

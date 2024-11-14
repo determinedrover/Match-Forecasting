@@ -1,0 +1,31 @@
+feat_id,feat_name,model_feat_imp_train,feat_rank_train,feat_description
+1,avg_balls_faced,0.11685298,1,Ratio of total number of balls faced by players in team1 to team2 in last 15 games
+2,team_count_6runs_last15,0.1133221,2,Ratio of total number of 6s by players in team1 to team2 in last 15 games
+3,avg_wicket_count,0.09592356,3,Ratio of total wicket counts of team1 to team2 in last 15 games
+4,avg_Sixes,0.08230364,4,Ratio of average number of 6s conceded by players in team1 to team2 in last 15 games
+5,avg_economy,0.07748333,5,Ratio of average economy rate of players in team1 to team2 in last 15 games
+6,avg_stkrate,0.07717809,6,Ratio of average team strike rate of all players in team1 to team2 in last 15 games
+7,avg_dots,0.070658,7,Ratio of average dot balls of players in team1 to team2 in last 15 games
+8,avg_caught,0.06581082,8,Ratio of total number of players that were caught in team1 to team2 in last 15 games
+9,runs_consistency,0.06468027,9,Ratio of standard deviation of runs scored by players in team1 to team2 in last 15 games
+10,avg_run out,0.06312269,10,Ratio of total number of players that were run out in team1 to team2 in last 15 games
+11,team_count_50runs_last15,0.061038967,11,Ratio of number of 50s by players in team1 to number of 50s by players in team2 in last 15 games
+12,avg_noballs,0.060870294,12,Ratio of average number of no-balls bowled by players in team1 to team2 in last 15 games
+13,avg_lbw,0.050755173,13,Ratio of total number of players that were lbw in team1 to team2 in last 15 games
+14,avg_runs,0.0,14,Ratio of average runs scored by all players in team1 to team2 in last 15 games
+15,wicket_to_run_ratio,0.0,15,Ratio of wickets taken to runs conceded by team1 to team2 in last 15 games
+16,avg_wides,0.0,16,Ratio of average number of wides bowled by players in team1 to team2 in last 15 games
+17,team_winp_last5,0.0,17,Ratio of team1's win % to team2's win % in last 5 games
+18,avg_Fours,0.0,18,Ratio of average number of 4s conceded by players in team1 to team2 in last 15 games
+19,team1only_avg_runs_last15,0.0,19,Team1's average inning runs in last 15 games
+20,avg_maiden,0.0,20,Ratio of average maiden overs of players in team1 to team2 in last 15 games
+21,team1_winp_team2_last15,0.0,21,Team1's win percentage against Team2 in last 15 games
+22,avg_bowling_strike_rate,0.0,22,Ratio of average bowling strike rate (balls bowled per wicket) of team1 to team2 in last 15 games
+23,dot_ball_percentage_ratio,0.0,23,Ratio of dot ball percentage of team1 to team2 in last 15 games
+24,avg_bowled,0.0,24,Ratio of total number of players that were bowled in team1 to team2 in last 15 games
+25,ground_avg_runs_last15,0.0,25,Average runs scored in the ground in last 15 games
+26,boundary_percentage,0.0,26,Ratio of boundary percentage of players in team1 to team2 in last 15 games
+27,strike_rate_consistency,0.0,27,Ratio of standard deviation of strike rates of players in team1 to team2 in last 15 games
+28,team_count_4runs_last15,0.0,28,Ratio of total number of 4s by players in team1 to team2 in last 15 games
+29,avg_stumped,0.0,29,Ratio of total number of players that were stumped in team1 to team2 in last 15 games
+30,toss_decision_01,0.0,30,"Toss decision - categorical - 1 if winner bats, 0 otherwise"

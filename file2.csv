@@ -1,0 +1,21 @@
+feat_id,feat_name,model_feat_imp_train,feat_rank_train,feat_description
+1,avg_balls_faced,0.22405441734074152,1,Ratio of total number of balls faced by players in team1 to team2 in last 15 games
+2,avg_stkrate,0.18003816543570342,2,Ratio of average team strike rate of all players in team1 to team2 in last 15 games
+3,team_count_6runs_last15,0.1715515449167807,3,Ratio of total number of 6s by players in team1 to team2 in last 15 games
+4,avg_run out,0.1377579164607153,4,
+5,avg_lbw,0.06609058357537438,5,Ratio of total number of players that were lbw in team1 to team2 in last 15 games
+6,avg_caught,0.05714589788805726,6,Ratio of total number of players that were caught in team1 to team2 in last 15 games
+7,team_winp_last5,0.0530276527175878,7,Ratio of team1's win % to team2's win % in last 5 games
+8,team_count_50runs_last15,0.04497312035247197,8,Ratio of number of 50s by players in team1 to number of 50s by players in team2 in last 15 games
+9,boundary_percentage,0.028703914064602508,9,Ratio of boundary percentage of players in team1 to team2 in last 15 games
+10,avg_runs,0.02145586367460918,10,Ratio of average runs scored by all players in team1 to team2 in last 15 games
+11,ground_avg_runs_last15,0.01520092357335578,11,average runs scored in the ground in last 15 games
+12,toss_decision_01,0.0,12,"Toss decision - categorical - 1 if winner bats, 0 otherwise"
+13,team_count_4runs_last15,0.0,13,Ratio of total number of 4s by players in team1 to team2 in last 15 games
+14,avg_bowled,0.0,14,Ratio of total number of players that were bowled in team1 to team2 in last 15 games
+15,team1_winp_team2_last15,0.0,15,Team1's win percentage against Team2 in last 15 games
+16,team1only_avg_runs_last15,0.0,16,team1's avg inning runs in last 15 games
+17,avg_stumped,0.0,17,Ratio of total number of players that were stumped in team1 to team2 in last 15 games
+18,runs_consistency,0.0,18,Ratio of standard deviation of runs scored by players in team1 to team2 in last 15 games
+19,strike_rate_consistency,0.0,19,Ratio of standard deviation of strike rates of players in team1 to team2 in last 15 games
+20,toss_winner_01,0.0,20,"Toss winner to numerical - 1 if team2 wins, else 0"

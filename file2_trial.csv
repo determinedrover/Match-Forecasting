@@ -1,0 +1,21 @@
+feat_id,feat_name,model_feat_imp_train,feat_rank_train,feat_description
+1,avg_balls_faced,0.18739183,1,Ratio of total number of balls faced by players in team1 to team2 in last 15 games
+2,team_count_6runs_last15,0.17244686,2,Ratio of total number of 6s by players in team1 to team2 in last 15 games
+3,team_winp_last5,0.11960974,3,Ratio of team1's win % to team2's win % in last 5 games
+4,team_count_50runs_last15,0.11784259,4,Ratio of number of 50s by players in team1 to number of 50s by players in team2 in last 15 games
+5,avg_caught,0.103577085,5,Ratio of total number of players that were caught in team1 to team2 in last 15 games
+6,avg_run out,0.09195308,6,Ratio of total number of players that were run out in team1 to team2 in last 15 games
+7,avg_stkrate,0.078229845,7,Ratio of average team strike rate of all players in team1 to team2 in last 15 games
+8,avg_lbw,0.0737614,8,Ratio of total number of players that were lbw in team1 to team2 in last 15 games
+9,avg_bowled,0.055187598,9,Ratio of total number of players that were bowled in team1 to team2 in last 15 games
+10,toss_winner_01,0.0,10,"Toss winner to numerical - 1 if team2 wins, else 0"
+11,strike_rate_consistency,0.0,11,Ratio of standard deviation of strike rates of players in team1 to team2 in last 15 games
+12,runs_consistency,0.0,12,Ratio of standard deviation of runs scored by players in team1 to team2 in last 15 games
+13,avg_stumped,0.0,13,Ratio of total number of players that were stumped in team1 to team2 in last 15 games
+14,avg_runs,0.0,14,Ratio of average runs scored by all players in team1 to team2 in last 15 games
+15,toss_decision_01,0.0,15,"Toss decision - categorical - 1 if winner bats, 0 otherwise"
+16,team_count_4runs_last15,0.0,16,Ratio of total number of 4s by players in team1 to team2 in last 15 games
+17,ground_avg_runs_last15,0.0,17,average runs scored in the ground in last 15 games
+18,team1_winp_team2_last15,0.0,18,Team1's win percentage against Team2 in last 15 games
+19,team1only_avg_runs_last15,0.0,19,team1's avg inning runs in last 15 games
+20,boundary_percentage,0.0,20,Ratio of boundary percentage of players in team1 to team2 in last 15 games
